@@ -18,6 +18,13 @@
 
 ---
 
+## 🌐 Sources
+
+- [github.com - Inicio rápido para repositorios](https://docs.github.com/es/repositories/creating-and-managing-repositories/quickstart-for-repositories)
+- [atlassian.com - Como crear un repositorio de Git](https://www.atlassian.com/es/git/tutorials/setting-up-a-repository)
+- [aluracursos.com - Cómo escribir un README increíble en tu Github](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github)
+---
+
 ## 📂 Estructura del Proyecto
 
 ```plaintext
@@ -27,3 +34,9 @@ Landing/
 ├── README.md
 └── assets/
     └── images/
+---
+
+
+
+
+
